@@ -3,7 +3,7 @@ package prototype;
 import java.io.*;
 
 /**
- * 原型模式
+ * 原型模式（将一个对象作为原型，对其进行复制、克隆，产生一个和原对象类似的新对象）
  * Created by lyc28724 on 2017/9/25.
  */
 public class Prototype implements Cloneable, Serializable {
